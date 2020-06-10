@@ -1,11 +1,17 @@
 # Bienvenidos a Portfolio v 2 🚀
-Una nueva plantilla para que la utilicen para darse a conocer a nivel profesional, y porque no, para que practiquen y aprendan cada vez más!
+Esta plantilla fue modificada con fines educativos
 
-## Sientanse en la capacidad de 🛠️⚙️:
-* Editarla con su información
-* Personalizarla con sus imágenes y colores
-* Darle vida en general!
+### Especificaciones
+
+- Se utiliza libreria de bootstrap
+- Los iconos utilizados son de icofont.com
+- Como medio academico se consulta en https://www.w3schools.com/
+- Como editor de resolucion de imagines se usa https://www.befunky.com/es/opciones/cambiar-tamanos-de-imagenes/
+
+
+## Informacion:
+* La documentacion y fotografias suministrada de empresas en esta pagina web no debe ser difundidas sin autorizacion de dichas empresa
 
 ## Recurso gratuito
 ---
-⌨️ con ❤️ por [JDR](https://github.com/jdreina7) :facepunch:😊
+⌨️ Santipal91
